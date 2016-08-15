@@ -1,13 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-
+  It makes the current working directory a git repo. This will initialize the
+  files versioning for the working directory.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+    staging area is the space within which the files that user want to add to
+    start version tracking is added before being committed. Files at the
+    staging area are selected to be committed when the next commit action is
+    taken.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+    TBA
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
