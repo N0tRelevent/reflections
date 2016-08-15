@@ -49,3 +49,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     Git will be useful to save my files and collaborate with other people
     working on the project.
+
+    End of text
