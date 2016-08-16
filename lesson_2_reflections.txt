@@ -18,6 +18,12 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    - When trying out experimental or additional features it makes sense to
+    branch out of master.
+    - When developing alternative versions for the project for example for other
+    languages or devices
+    - When a mile stone stable version of the project is reached and a new dev
+    cycle begins.
 
 How do the diagrams help you visualize the branch structure?
 
