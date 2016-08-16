@@ -39,3 +39,7 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+  Auto merging will be time saving and convenient where git will handle
+  finding the added, removed and modified parts of the code and sort it
+  out without user intervention. 
