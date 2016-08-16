@@ -11,7 +11,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    - It gives me the freedom to only share my progress when I want to
+    - I also get the opportunity to only push changes when a logical change
+    is complete in case I wanted the cloud to only have complete logical
+    chunks of the code
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
