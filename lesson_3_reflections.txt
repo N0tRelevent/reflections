@@ -1,7 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    - Keeping a copy in the cloud is always the safest option to reduce the risk
+    of losing you work in case your hardware dies or get stolen or something
+    like that.
+    - If you are collaburating with other team members, the cloud will be a very
+    convenient way of syncing your work
+    - Cloud also makes it easy to share your work with the public
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
